@@ -8,6 +8,3 @@
 ## Contributors
 
 ![Contributors](https://opencollective.com/Air-Captcha/contributors.svg?width=890&button=false)
-
-> [!NOTE]\
-> v2 version is coming soon.
